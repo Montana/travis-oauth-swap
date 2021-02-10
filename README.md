@@ -1,4 +1,4 @@
-# Travis switching from OAuth tocGitHub App
+# Travis switching from OAuth to GitHub App
 
 As you may have heard GitHub discontinues GitHub Oauth App's for integrations in May 2021. We've received all your feedback from users signing up on [travis-ci.com](http://www.travis-ci.com). We understand the access rights/permissions message that's issued by GitHub is causing a lot of anxiety from our users even though the GitHub App Install is actually used to access the repo's. 
 
