@@ -1,0 +1,1 @@
+Mimic blog folder structure
